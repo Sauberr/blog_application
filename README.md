@@ -1,4 +1,4 @@
-# Blog Applicatopn
+# Blog Application
 
 The project for study Django.
 
