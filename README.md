@@ -1,4 +1,4 @@
-# Social Website
+# Blog Applicatopn
 
 The project for study Django.
 
